@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning Blockchain technologies: Ethereum, Solidity, Foundry and Chainlink
 - 💞️ I’m looking to collaborate on Quantum Research Projects and Blockchain ideas
 - 📫 How to reach me -> pm me on LinkedIn
-
-  This collection of repositories are part of The Open Research Initiative.
+  <br/><br/>
+  
+  I would like to name this repository collection: The Open Research Initiative (quantum / blockchain ideas, mostly).
 
 <!---
 atudorache/atudorache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
