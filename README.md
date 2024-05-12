@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @atudorache (Alexandru-Gabriel Tudorache)
 - I have a PhD in Quantum Information Processing, and a general background in Computer Engineering
-- 👀 I’m interested in Quantum and Blockchain Application Development
+- 👀 I’m interested in Quantum Computing, Blockchain Application Development and Cybersecurity
 - 🌱 I’m currently learning Blockchain technologies: Ethereum, Solidity, Foundry and Chainlink
-- 💞️ I’m looking to collaborate on Quantum Research Projects and Blockchain ideas
+- 💞️ I’m looking to collaborate on Quantum Research Projects, Blockchain and Cybersecurity ideas
 - 📫 How to reach me -> pm me on LinkedIn
   <br/><br/>
   
